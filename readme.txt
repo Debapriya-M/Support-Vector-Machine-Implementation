@@ -11,7 +11,7 @@ README: [Both Datasets present at the same location as the python scripts]
 	-- <kernel> - linear/rbf
  	-- <dataset>:​ bcd / mnist
 
-2. To read the MNIS dataset, we have to install python-mist ---> pip install python-mist
+2. To read the MNIST dataset, we have to install python-mist ---> pip install python-mist
 
  
 Syntax:
